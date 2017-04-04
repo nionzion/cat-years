@@ -12,6 +12,7 @@
 		DDB410C51E93C96B0030F54E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDB410C31E93C96B0030F54E /* Main.storyboard */; };
 		DDB410C71E93C96B0030F54E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDB410C61E93C96B0030F54E /* Assets.xcassets */; };
 		DDB410CA1E93C96B0030F54E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDB410C81E93C96B0030F54E /* LaunchScreen.storyboard */; };
+		DDB410D21E93CF370030F54E /* cat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DDB410D11E93CF370030F54E /* cat.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DDB410C61E93C96B0030F54E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDB410C91E93C96B0030F54E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDB410CB1E93C96B0030F54E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDB410D11E93CF370030F54E /* cat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat.jpeg; path = "../../Hello World/cat.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DDB410BF1E93C96B0030F54E /* AppDelegate.swift */,
 				DDB410C11E93C96B0030F54E /* ViewController.swift */,
 				DDB410C31E93C96B0030F54E /* Main.storyboard */,
+				DDB410D11E93CF370030F54E /* cat.jpeg */,
 				DDB410C61E93C96B0030F54E /* Assets.xcassets */,
 				DDB410C81E93C96B0030F54E /* LaunchScreen.storyboard */,
 				DDB410CB1E93C96B0030F54E /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDB410D21E93CF370030F54E /* cat.jpeg in Resources */,
 				DDB410CA1E93C96B0030F54E /* LaunchScreen.storyboard in Resources */,
 				DDB410C71E93C96B0030F54E /* Assets.xcassets in Resources */,
 				DDB410C51E93C96B0030F54E /* Main.storyboard in Resources */,

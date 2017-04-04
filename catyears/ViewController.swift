@@ -9,6 +9,21 @@
 import UIKit
 
 class ViewController: UIViewController {
+   
+    @IBOutlet weak var textField: UITextField!
+    @IBOutlet weak var labelResult: UILabel!
+    @IBOutlet weak var buttonSubmit: UIButton!
+    @IBAction func buttonClick(_ sender: Any) {
+        //Fetching data from textField and multiply by 7
+            var age: Int = 0
+            age = Int(textField.text!)! * 7
+        //Convert result to string and print on label
+            labelResult.text = String(age)
+        
+        
+    }
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
